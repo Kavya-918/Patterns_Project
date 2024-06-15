@@ -6,21 +6,15 @@ Pattern programming involves creating different types of patterns using code. Th
 
 Patterns Included
 Star Patterns:
-
-Pyramid
-Diamond
-Square
-Hollow Shapes
-Number Patterns:
-
+Pyramid,
+Diamond,
+Square,
+Hollow Shapes,
+Number Patterns
 Incremental Numbers
-Fibonacci Series
-Palindromic Patterns
 Alphabet Patterns:
-
 Character Triangles
 Inverted Character Pyramids
 Special Patterns:
-
 Pascal's Triangle
 Spiral Matrix
