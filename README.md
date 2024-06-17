@@ -1,4 +1,4 @@
-Pattern Programming
+                                                                   PATTERN PROGRAMMING
 Welcome to the Pattern Programming repository! This project is dedicated to exploring various pattern generation techniques using programming. Pattern programming is a fundamental concept that helps in understanding loops, conditionals, and the logic-building required in software development.
 
 Overview
@@ -9,12 +9,15 @@ Star Patterns:
 Pyramid,
 Diamond,
 Square,
-Hollow Shapes,
+Hollow Shapes
+
 Number Patterns
 Incremental Numbers
+
 Alphabet Patterns:
 Character Triangles
 Inverted Character Pyramids
+
 Special Patterns:
 Pascal's Triangle
 Spiral Matrix
